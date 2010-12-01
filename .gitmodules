@@ -7,3 +7,6 @@
 [submodule "deps/node-canvas"]
 	path = deps/node-canvas
 	url = https://github.com/LearnBoost/node-canvas.git
+[submodule "deps/node-overload"]
+	path = deps/node-overload
+	url = https://github.com/bmeck/node-overload.git
