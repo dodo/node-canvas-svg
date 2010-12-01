@@ -1,0 +1,9 @@
+[submodule "deps/vargs"]
+	path = deps/vargs
+	url = https://github.com/cloudhead/vargs.git
+[submodule "deps/jsdom"]
+	path = deps/jsdom
+	url = https://github.com/tmpvar/jsdom.git
+[submodule "deps/node-canvas"]
+	path = deps/node-canvas
+	url = https://github.com/LearnBoost/node-canvas.git
