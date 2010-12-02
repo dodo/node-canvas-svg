@@ -10,3 +10,6 @@
 [submodule "deps/node-overload"]
 	path = deps/node-overload
 	url = https://github.com/bmeck/node-overload.git
+[submodule "deps/node-htmlparser"]
+	path = deps/node-htmlparser
+	url = https://github.com/tautologistics/node-htmlparser.git
